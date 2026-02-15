@@ -5,7 +5,7 @@ import Image from "next/image"
 
 export function ProcessSection() {
   const handlePhoneClick = () => {
-    window.location.href = 'tel:+9660545915592'
+    window.location.href = 'tel:0545915592'
   }
 
   return (

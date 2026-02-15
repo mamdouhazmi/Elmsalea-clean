@@ -78,7 +78,7 @@ const services = [
 export function ServicesSection() {
   // Handle WhatsApp Click Event
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/9660545915592", "_blank")
+    window.open("https://wa.me/966545915592", "_blank")
   }
 
   return (

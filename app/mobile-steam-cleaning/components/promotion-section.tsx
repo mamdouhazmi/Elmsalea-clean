@@ -6,11 +6,11 @@ import Image from "next/image"
 
 export function PromotionSection() {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/9660545915592', '_blank')
+    window.open('https://wa.me/966545915592', '_blank')
   }
 
   const handlePhoneClick = () => {
-    window.location.href = 'tel:+9660545915592'
+    window.location.href = 'tel:0545915592'
   }
 
   return (

@@ -6,7 +6,7 @@ import { MessageCircle } from 'lucide-react'
 
 export default function CarDetailingAd() {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/9660545915592', '_blank')
+    window.open('https://wa.me/966545915592', '_blank')
   }
 
   return (

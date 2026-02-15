@@ -103,7 +103,7 @@ export function ServiceCard({
             {/* Contact Info */}
             <div className="flex items-center justify-between p-3 bg-[#F9F7F7] rounded-lg">
               <a
-                href="https://wa.me/+9660545915592"
+                href="https://wa.me/0545915592"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-green-600 hover:text-green-700 transition-colors"

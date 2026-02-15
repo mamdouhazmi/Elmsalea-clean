@@ -6,9 +6,9 @@ import { OptimizedImage } from "@/components/optimized-image"
 import { motion } from "framer-motion"
 
 export function HeroSection() {
-  const primaryPhoneNumber = "0545915592"
-  const newPhoneNumber = "0565654734"
-  const whatsappLink = "https://wa.me/9660545915592"
+  const primaryPhoneNumber = "0565654734"
+  const newPhoneNumber = "0545915592"
+  const whatsappLink = "https://wa.me/966545915592"
 
   const features = [
     { icon: Star, text: "تلميع احترافي", color: "text-yellow-500" },
@@ -119,7 +119,7 @@ export function HeroSection() {
               size="lg"
               variant="outline"
               className="min-w-[280px] h-16 text-lg font-bold bg-white/10 backdrop-blur-sm border-2 border-white text-white hover:bg-white hover:text-[#112D4E] shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 rounded-xl"
-              onClick={() => (window.location.href = `tel:+966${primaryPhoneNumber}`)}
+              onClick={() => (window.location.href = `tel:${primaryPhoneNumber}`)}
             >
               <Phone className="ml-2 w-6 h-6" />
               اتصل الآن: {primaryPhoneNumber}
@@ -128,7 +128,7 @@ export function HeroSection() {
               size="lg"
               variant="outline"
               className="min-w-[280px] h-16 text-lg font-bold bg-white/10 backdrop-blur-sm border-2 border-white text-white hover:bg-white hover:text-[#112D4E] shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 rounded-xl"
-              onClick={() => (window.location.href = `tel:+966${newPhoneNumber}`)}
+              onClick={() => (window.location.href = `tel:${newPhoneNumber}`)}
             >
               <Phone className="ml-2 w-6 h-6" />
               اتصل الآن: {newPhoneNumber}

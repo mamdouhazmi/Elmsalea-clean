@@ -7,7 +7,7 @@ export default function CallSection() {
 
 
   const handlePhoneClick = () => {
-    window.location.href = 'tel:+9660545915592'
+    window.location.href = 'tel:0565654734'
   }
 
   return (

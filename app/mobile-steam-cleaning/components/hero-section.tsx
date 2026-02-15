@@ -8,7 +8,7 @@ import { motion } from "framer-motion"
 export function HeroSection() {
   const primaryPhoneNumber = "0545915592"
   const newPhoneNumber = "0565654734"
-  const whatsappLink = "https://wa.me/9660545915592"
+  const whatsappLink = "https://wa.me/966545915592"
 
   const steamFeatures = [
     { icon: Droplets, text: "تقنية البخار المتقدمة", color: "text-blue-500" },

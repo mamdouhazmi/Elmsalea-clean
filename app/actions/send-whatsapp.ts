@@ -6,7 +6,7 @@ export async function sendWhatsAppMessage(formData: ContactFormData) {
   const { phone, type, message } = formData
 
   const whatsappMessage = `رقم الهاتف: ${phone}\nنوع الطلب: ${type}\nالرسالة: ${message}`
-  const whatsappNumber = '+9660545915592'
+  const whatsappNumber = '0545915592'
 
   try {
     // This is a placeholder for the actual WhatsApp Business API call

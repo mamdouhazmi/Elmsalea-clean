@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 
 export function PortfolioSection() {
   const handlePhoneClick = () => {
-    window.location.href = 'tel:+9660545915592'
+    window.location.href = 'tel:0565654734'
   }
 
   return (

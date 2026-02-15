@@ -3,11 +3,11 @@ import Image from "next/image" // Added import for Image component
 
 export function FixedContactButtons() {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/9660545915592", "_blank") // Updated WhatsApp number
+    window.open("https://wa.me/966545915592", "_blank") // Updated WhatsApp number
   }
 
   const handlePhoneClick = () => {
-    window.location.href = "tel:+9660565654734" // Updated phone number
+    window.location.href = "tel:0565654734" // Updated phone number
   }
 
   return (
