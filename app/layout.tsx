@@ -6,6 +6,8 @@ import { cn } from "@/lib/utils"
 import { Suspense } from "react"
 import GoogleAnalytics from "@/components/google-analytics"
 import JsonLd from "@/components/json-ld"
+import TikTokPixel from "@/components/tiktok-pixel"
+
 
 const cairo = Cairo({
   subsets: ["arabic"],
@@ -104,6 +106,7 @@ export default function RootLayout({
       <body className={cn("min-h-screen bg-background font-sans antialiased")}>
         <Suspense fallback={null}>
           <GoogleAnalytics />
+          <TikTokPixel />
         </Suspense>
         <JsonLd />
         {children}
