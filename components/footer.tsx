@@ -4,9 +4,9 @@ import { MessageCircle, Phone } from "lucide-react"
 import Link from "next/link"
 
 export function Footer() {
-  const primaryPhoneNumber = "0545915592"
-  const newPhoneNumber = "0565654734"
-  const whatsappLink = "http://wa.me/9660545915592"
+  const primaryPhoneNumber = "0565654734"
+  const newPhoneNumber = "0545915592"
+  const whatsappLink = "http://wa.me/9660565654734"
   const tiktokLink = "https://www.tiktok.com/@elmsaleaclen.car"
   const instagramLink = "https://www.instagram.com/prestige_clean172000?igsh=dXVscjdja3A2dXhz&utm_source=qr"
 

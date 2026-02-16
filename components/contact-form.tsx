@@ -19,7 +19,7 @@ export function ContactForm() {
     {
       icon: <Phone className="h-6 w-6 text-[#3F72AF]" />,
       title: "رقم الهاتف",
-      content: ["0545915592"]
+      content: ["0565654734"]
     },
     {
       icon: <Mail className="h-6 w-6 text-[#3F72AF]" />,
@@ -122,7 +122,7 @@ export function ContactForm() {
 
         <div className="fixed bottom-6 left-6 flex flex-col gap-4">
           <a
-            href="https://wa.me/0545915592"
+            href="https://wa.me/0565654734"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-colors"

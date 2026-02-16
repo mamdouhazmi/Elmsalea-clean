@@ -6,9 +6,9 @@ import { OptimizedImage } from "@/components/optimized-image"
 import { motion } from "framer-motion"
 
 export function HeroSection() {
-  const primaryPhoneNumber = "0545915592"
-  const newPhoneNumber = "0565654734"
-  const whatsappLink = "https://wa.me/966545915592"
+  const primaryPhoneNumber = "0565654734"
+  const newPhoneNumber = "0545915592"
+  const whatsappLink = "https://wa.me/966565654734"
 
   const benefits = [
     { icon: Droplets, text: "تنظيف بالبخار", color: "text-blue-500" },

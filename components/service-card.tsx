@@ -103,14 +103,14 @@ export function ServiceCard({
             {/* Contact Info */}
             <div className="flex items-center justify-between p-3 bg-[#F9F7F7] rounded-lg">
               <a
-                href="https://wa.me/0545915592"
+                href="https://wa.me/0565654734"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-green-600 hover:text-green-700 transition-colors"
               >
                 <WhatsApp className="w-5 h-5" />
                 <span dir="ltr" className="font-bold">
-                  0545915592
+                  0565654734
                 </span>
               </a>
               <div className="text-[#3F72AF] font-semibold">متاح 24/7</div>

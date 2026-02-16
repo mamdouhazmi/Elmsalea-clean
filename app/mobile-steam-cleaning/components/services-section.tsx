@@ -78,7 +78,7 @@ const services = [
 export function ServicesSection() {
   // Handle WhatsApp Click Event
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/966545915592", "_blank")
+    window.open("https://wa.me/966565654734", "_blank")
   }
 
   return (
@@ -104,10 +104,10 @@ export function ServicesSection() {
                   Elmsalea clean
                 </div>
                 <div className="absolute top-4 left-4 bg-[#112D4E] text-white px-3 py-1 rounded-full text-xs mb-1">
-                  0545915592
+                  0565654734
                 </div>
                 <div className="absolute top-12 left-4 bg-[#112D4E] text-white px-3 py-1 rounded-full text-xs">
-                  0565654734
+                  0545915592
                 </div>
               </div>
               <div className="p-6">

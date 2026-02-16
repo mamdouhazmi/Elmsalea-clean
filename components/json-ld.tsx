@@ -19,7 +19,7 @@ export default function JsonLd() {
     openingHours: "Mo-Su 06:00-23:00",
     priceRange: "$$",
     image: "https://elmsaleaclean.com/og-image.jpg",
-    sameAs: ["https://wa.me/966545915592"],
+    sameAs: ["https://wa.me/966565654734"],
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "خدمات غسيل وتلميع السيارات",

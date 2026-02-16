@@ -6,7 +6,7 @@ import { MessageCircle } from 'lucide-react'
 
 export default function CarDetailingAd() {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/966545915592', '_blank')
+    window.open('https://wa.me/966565654734', '_blank')
   }
 
   return (
@@ -50,7 +50,7 @@ export default function CarDetailingAd() {
             </div>
             <div className="space-y-2 text-right mb-4">
               <h2 className="text-3xl font-bold text-[#F9F7F7]">Elmsalea Clean</h2>
-              <p className="text-2xl font-semibold text-[#F9F7F7]">0545915592</p>
+              <p className="text-2xl font-semibold text-[#F9F7F7]">0565654734</p>
             </div>
             <div className="grid grid-cols-2 gap-4">
               <Image

@@ -8,7 +8,7 @@ import { motion } from "framer-motion"
 export function HeroSection() {
   const primaryPhoneNumber = "0565654734"
   const newPhoneNumber = "0545915592"
-  const whatsappLink = "https://wa.me/966545915592"
+  const whatsappLink = "https://wa.me/966565654734"
 
   const features = [
     { icon: Star, text: "تلميع احترافي", color: "text-yellow-500" },
